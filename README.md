@@ -23,27 +23,26 @@ These dashboards simulate a real-world hospital management reporting system for 
 #  Dashboard Previews
 
 ##   **Billing & Revenue Analysis**
-![Billing   Revenue Analysis](https://github.com/user-attachments/assets/26977bbf-0531-4d17-bbe1-b955a8d92a88)
-
+![Billing   Revenue Analysis](https://github.com/user-attachments/assets/aed68e7e-1137-4277-8613-00f5d615a519)
 
 ##  **Doctor & Treatment Insights**  
-![Doctor   Treatment Insights](https://github.com/user-attachments/assets/48c6c113-4549-4000-aa61-1805fdda2b14)
+![Doctor   Treatment Insights](https://github.com/user-attachments/assets/f6878b3a-5952-4570-8835-ffb085284e5d)
 
 ##  **Patient Overview**  
-![Patient Overview](https://github.com/user-attachments/assets/70198163-b13c-461e-86d2-2aaa2a69b940)
+![Patient Overview](https://github.com/user-attachments/assets/6ee9c373-0d3d-449f-aee5-9eac3aa85842)
 
 
 ---
 
 ##  Key Insights & Features
 
--  **Total Revenue**: ₹160.18K billed from all treatment types  
--  **Average Bill Amount**: ₹2.97K across 54 bills  
+-  **Total Revenue**: ₹551.25K billed from all treatment types  
+-  **Average Bill Amount**:  ₹2.76K average bill amount from 200 bills.
 -  **Payment Methods**: Insurance, credit cards, and cash show balanced usage  
 -  **Top Doctors**: Sarah Taylor and David Taylor have the highest appointment loads  
 -  **Most Common Treatments**: Chemotherapy, ECG, and X-Ray are top procedures  
 -  **Patient Demographics**: Adults are the majority, with a gender split of 62% female and 38% male  
--  **Peak Revenue Months**: April and November are high-performing in revenue terms  
+-  **Peak Revenue Months**: April, January and June are high-performing in revenue terms  
 -  **Dynamic Filters**: Filter views by doctor, branch, month, patient ID, and more
 
 ---
@@ -63,16 +62,16 @@ These dashboards simulate a real-world hospital management reporting system for 
 ###  Billing & Revenue Analysis – Overview
 
 - **Monthly Revenue Trend**  
-  Revenue varies across months with noticeable peaks in **January**, **April**, and **November**.
+  Revenue varies across months with noticeable peaks in **January**, **April**, and **June**.
 
 - **Payment Status Distribution**  
-  Majority of the revenue is either **Paid (40.3%)** or **Pending (39.3%)**, while **Failed payments (20.3%)** indicate areas for follow-up.
+  Majority of the revenue is either **Paid (31.46%)** or **Pending (33.49%)**, while **Failed payments (35.05%)** indicate areas for follow-up.
 
 - **Payment Methods**  
-  Most payments are via **Credit Card (38.32%)**, followed by **Insurance (34%)** and **Cash (27%)**.
+  Most payments are via **Credit Card (36.53%)**, followed by **Insurance (33.04%)** and **Cash (30.42%)**.
 
 - **Top Treatment Revenue**  
-  Highest revenue comes from **Chemotherapy**, **Physiotherapy**, and **ECG**.
+  Highest revenue comes from **Chemotherapy**, **MRI**, and **X-ray**.
 
 ---
 
@@ -106,10 +105,15 @@ These dashboards simulate a real-world hospital management reporting system for 
 ---
 
 ##  Repository Structure
-Raw Data: Contains the raw data.
-Dashboard: Power BI dashboard of the project.
-Business Questions: Contains bussiness problems and requirements.
-Bussiness Insights and Solutions: Contains business insights, overviwe and future actions for decisions.
+
+ <br> 🔗 **Raw Data:**  <a href="https://drive.google.com/drive/folders/12VciBl-nhsiDPBGaKjecFts9uk_a4Yzx?usp=drive_link"> [Link]</a> .<br/>
+
+<br> 🔗 **Dashboard:** <a href="https://drive.google.com/file/d/1ltpPK7oGsglmwSDH0E-5Y3L5ict6UYVD/view?usp=drive_link"> [Link]</a> <br/>
+  
+<br> 🔗 **Business Questions:** <a href="https://drive.google.com/file/d/1gOXQ6g2C2vuZklOSehTZrn8nA_zt1T-_/view?usp=drive_link"> [Link]</a> <br/>
+
+<br> 🔗 **Business Insights and Solutions:** <a href="https://drive.google.com/file/d/1ZP9STz4c31ytIE-eERo8yR7Bkr8GR22y/view?usp=drive_link"> [Link]</a> <br/>
+
 
 ---
 
