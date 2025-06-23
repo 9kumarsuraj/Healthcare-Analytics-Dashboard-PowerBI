@@ -106,14 +106,14 @@ These dashboards simulate a real-world hospital management reporting system for 
 
 ##  Repository Structure
 
- <br> 🔗 **Raw Data:** [Raw Data Folder](https://github.com/your-username/your-repo/blob/main/Healthcare%20Dashboard/Raw_Data)
-  [Link].<br/>
+ <br> 🔗 **Raw Data:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/archive.zip" target="_blank">
+ [Link] </a> <br/>
 
-<br> 🔗 **Dashboard:** <a href="https://drive.google.com/file/d/1ltpPK7oGsglmwSDH0E-5Y3L5ict6UYVD/view?usp=drive_link"> [Link]</a> <br/>
+<br> 🔗 **Dashboard:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Healthcare-Analytics-Dashboard-PowerBI.pbix"> [Link]</a> <br/>
   
-<br> 🔗 **Business Questions:** <a href="https://drive.google.com/file/d/1gOXQ6g2C2vuZklOSehTZrn8nA_zt1T-_/view?usp=drive_link"> [Link]</a> <br/>
+<br> 🔗 **Business Questions:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Business%20Questions%20from%20Healthcare.pdf"> [Link]</a> <br/>
 
-<br> 🔗 **Business Insights and Solutions:** <a href="https://drive.google.com/file/d/1ZP9STz4c31ytIE-eERo8yR7Bkr8GR22y/view?usp=drive_link"> [Link]</a> <br/>
+<br> 🔗 **Business Insights and Solutions:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Overview.pdf"> [Link]</a> <br/>
 
 
 ---
