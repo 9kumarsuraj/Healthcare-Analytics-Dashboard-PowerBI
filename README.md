@@ -106,7 +106,8 @@ These dashboards simulate a real-world hospital management reporting system for 
 
 ##  Repository Structure
 
- <br> 🔗 **Raw Data:**  <a href="https://drive.google.com/drive/folders/12VciBl-nhsiDPBGaKjecFts9uk_a4Yzx?usp=drive_link"> [Link]</a> .<br/>
+ <br> 🔗 **Raw Data:** [Raw Data Folder](https://github.com/your-username/your-repo/blob/main/Healthcare%20Dashboard/Raw_Data)
+  [Link].<br/>
 
 <br> 🔗 **Dashboard:** <a href="https://drive.google.com/file/d/1ltpPK7oGsglmwSDH0E-5Y3L5ict6UYVD/view?usp=drive_link"> [Link]</a> <br/>
   
