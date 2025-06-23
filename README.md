@@ -106,7 +106,10 @@ These dashboards simulate a real-world hospital management reporting system for 
 ---
 
 ##  Repository Structure
-
+Raw Data: Contains the raw data.
+Dashboard: Power BI dashboard of the project.
+Business Questions: Contains bussiness problems and requirements.
+Bussiness Insights and Solutions: Contains business insights, overviwe and future actions for decisions.
 
 ---
 
