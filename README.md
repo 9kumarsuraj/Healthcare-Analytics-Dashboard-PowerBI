@@ -23,13 +23,16 @@ These dashboards simulate a real-world hospital management reporting system for 
 #  Dashboard Previews
 
 ##   **Billing & Revenue Analysis**
-![Billing   Revenue Analysis](https://github.com/user-attachments/assets/aed68e7e-1137-4277-8613-00f5d615a519)
+![Billing   Revenue Analysis](https://github.com/user-attachments/assets/a3fec7b4-0db1-4e0c-b92e-09ceb07ee4ad)
+
 
 ##  **Doctor & Treatment Insights**  
-![Doctor   Treatment Insights](https://github.com/user-attachments/assets/f6878b3a-5952-4570-8835-ffb085284e5d)
+![Doctor   Treatment Insights](https://github.com/user-attachments/assets/8d1df0c5-0736-42b7-b0bf-1f260171c00f)
+
 
 ##  **Patient Overview**  
-![Patient Overview](https://github.com/user-attachments/assets/6ee9c373-0d3d-449f-aee5-9eac3aa85842)
+![Patient Overview](https://github.com/user-attachments/assets/2f905d1c-33fb-4ae7-9f0f-c5056972b4ad)
+
 
 
 ---
@@ -107,13 +110,13 @@ These dashboards simulate a real-world hospital management reporting system for 
 ##  Repository Structure
 
  <br> 🔗 **Raw Data:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/archive.zip" target="_blank">
- [Link] </a> <br/>
+ [Click here] </a> <br/>
 
-<br> 🔗 **Dashboard:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Healthcare-Analytics-Dashboard-PowerBI.pbix"> [Link]</a> <br/>
+<br> 🔗 **Dashboard:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Healthcare-Analytics-Dashboard-PowerBI.pbix"> [Click here]</a> <br/>
   
-<br> 🔗 **Business Questions:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Business%20Questions%20from%20Healthcare.pdf"> [Link]</a> <br/>
+<br> 🔗 **Business Questions:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Business%20Questions%20from%20Healthcare.pdf"> [Click here]</a> <br/>
 
-<br> 🔗 **Business Insights and Solutions:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Overview.pdf"> [Link]</a> <br/>
+<br> 🔗 **Business Insights and Solutions:** <a href="https://github.com/9kumarsuraj/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Overview.pdf"> [Click here]</a> <br/>
 
 
 ---
